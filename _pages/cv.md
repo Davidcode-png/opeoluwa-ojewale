@@ -65,11 +65,10 @@ Workshops & conferences
 ======
 * UNESCO AI Education Workshop; NACOSS UI 2025; NHEF Workshop Conferences
 
-Publications
+Unpublished manuscripts & project papers
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* **Audiosum: Development of a Multimodal Video Summarization Framework Using Pre-trained CNN Models** (2025) -- B.Sc. final-year thesis, University of Ibadan. Manuscript available (unpublished). [Manuscript & results](https://drive.google.com/open?id=1ifysSjw_GcsJUe7GUZ252RC7v9fhoKe7&usp=drive_fs)
+* **Data Mining System for Sales Prediction in a Publishing House Using Artificial Neural Network** (2023) -- group project paper (unpublished). LSTM sales forecasting with sentiment features in a KDD decision-support system; evaluated with precision and F1.
 
 Talks
 ======

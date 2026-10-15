@@ -1,6 +1,6 @@
 ---
 title: "Audiosum: Multimodal Video Summarization"
-excerpt: "B.Sc. thesis — fusing pre-trained CNN visuals (ResNet50/VGG16) with audio cues via FC fusion + LSTM for representative video summaries."
+excerpt: "B.Sc. thesis: fusing pre-trained CNN visuals (ResNet50/VGG16) with audio cues via FC fusion + LSTM for representative video summaries."
 collection: portfolio
 ---
 

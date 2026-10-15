@@ -1,6 +1,6 @@
 ---
 title: "Sales Prediction with Neural Networks & Sentiment Signals"
-excerpt: "Project Lead — LSTM forecasting on transactions + sentiment features in a KDD decision-support system; precision/F1 evaluation."
+excerpt: "Project Lead: LSTM forecasting on transactions + sentiment features in a KDD decision-support system; precision/F1 evaluation."
 collection: portfolio
 ---
 

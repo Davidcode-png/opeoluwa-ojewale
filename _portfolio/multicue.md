@@ -1,6 +1,6 @@
 ---
 title: "Multi-Cue Person Detection & Recognition in Unstructured Environments"
-excerpt: "Research Assistant work — YOLO posture detection + UNET shadow segmentation + large-scale CVAT video annotation."
+excerpt: "Research Assistant work: YOLO posture detection + UNET shadow segmentation + large-scale CVAT video annotation."
 collection: portfolio
 ---
 
