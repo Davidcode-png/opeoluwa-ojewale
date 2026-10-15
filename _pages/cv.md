@@ -67,8 +67,8 @@ Workshops & conferences
 
 Unpublished manuscripts & project papers
 ======
-* **Audiosum: Development of a Multimodal Video Summarization Framework Using Pre-trained CNN Models** (2025) -- B.Sc. final-year thesis, University of Ibadan. Manuscript available (unpublished). [Manuscript & results](https://drive.google.com/open?id=1ifysSjw_GcsJUe7GUZ252RC7v9fhoKe7&usp=drive_fs)
-* **Data Mining System for Sales Prediction in a Publishing House Using Artificial Neural Network** (2023) -- group project paper (unpublished). LSTM sales forecasting with sentiment features in a KDD decision-support system; evaluated with precision and F1.
+* **Audiosum: Development of a Multimodal Video Summarization Framework Using Pre-trained CNN Models** -- B.Sc. final-year thesis, University of Ibadan. Manuscript available (unpublished). [Manuscript & results](https://drive.google.com/open?id=1ifysSjw_GcsJUe7GUZ252RC7v9fhoKe7&usp=drive_fs)
+* **Data Mining System for Sales Prediction in a Publishing House Using Artificial Neural Network** -- group project paper (unpublished). LSTM sales forecasting with sentiment features in a KDD decision-support system; evaluated with precision and F1.
 
 Talks
 ======
